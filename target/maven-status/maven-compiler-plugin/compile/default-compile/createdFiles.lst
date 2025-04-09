@@ -1,0 +1,14 @@
+edu\uob\LoadedAction.class
+edu\uob\GameServer.class
+edu\uob\PlayersManagement.class
+edu\uob\GameAction.class
+edu\uob\Characters.class
+edu\uob\LoadedEntity.class
+edu\uob\Location.class
+edu\uob\Artefacts.class
+edu\uob\Player.class
+edu\uob\Furniture.class
+edu\uob\ParsedBasicCommand.class
+edu\uob\ParsedCustomCommand.class
+edu\uob\GameClient.class
+edu\uob\GameEntity.class
